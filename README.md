@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshgoyalkiet
-- 👀 I’m interested in ... coding and my dream is to get a job in a product based company
+- 👀 I’m interested in ... Coding and My dream is to get a job in a Product Based Company
 - 🌱 I’m currently learning ...
--I am currently pursuing graduation from kiet group of institutions.
+-I am currently pursuing Graduation from kiet group of institutions in Information & Technology.
 - 📫 How to reach me ...
 
 <!---
