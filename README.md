@@ -11,10 +11,9 @@
 
 - 📫 How to reach me **harshgoyalg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g97-7iB5DHrM5NxMhq0zJ6vCNjet55SE/view?usp=sharing](https://drive.google.com/file/d/1g97-7iB5DHrM5NxMhq0zJ6vCNjet55SE/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g97-7iB5DHrM5NxMhq0zJ6vCNjet55SE/view?usp=sharing](https://www.linkedin.com/in/harsh-goyal-bb39a41ab/)
 - ⚡ Fun fact **I think I'm quite funny and mature at same time.**
-
+https://www.linkedin.com/in/harsh-goyal-bb39a41ab/
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
