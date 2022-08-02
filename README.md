@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgoyalkiet&label=Profile%20views&color=0e75b6&style=flat" alt="harshgoyalkiet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgoyalkiet" alt="harshgoyalkiet" /></a> </p>
+
 
 - 🔭 I’m currently working on [AGROFIT](https://docs.google.com/presentation/d/1_k87WVHl1EEDE7KO6ghQTh-xOqZDhoXRZslJiMdf3WQ/edit#slide=id.p)
 
