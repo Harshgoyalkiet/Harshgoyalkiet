@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Harsh Goyal</h1>
-<h3 align="center">Learner with a passion for developing innovative programs that expendite the efficiency and effectiveness of organizational success. Well-versed in the technology and writing code to create systems that are reliable and user-friendly. skilled leader who has proven ability to motivate , educate and manage a team of people and effectively track the changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet the company's organizational needs, hightlight their core competencies and further their success.</h3>
+<h3 align="center">Passionate Software Engineer with 2+ years of experience specializing in backend development. Skilled in Java, Spring Boot, Microservices, SQL, REST APIs, and AWS Cloud, I have contributed to scalable enterprise platforms in automotive and e-commerce domains. My work focuses on optimizing system performance, reducing costs, and streamlining operations through clean architecture and backend enhancements.
+
+I am driven by solving complex engineering challenges and building robust, scalable systems aligned with business goals. A confident communicator and collaborative leader, I excel in motivating teams, tracking progress, and delivering user-friendly, reliable software.
+
+Open to backend or system design roles where I can build impactful solutions within fast-paced and global teams. Always eager to connect for meaningful opportunities and collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshgoyalkiet&label=Profile%20views&color=0e75b6&style=flat" alt="harshgoyalkiet" /> </p>
 
 
 
-- 🔭 I’m currently working on [AGROFIT](https://docs.google.com/presentation/d/1_k87WVHl1EEDE7KO6ghQTh-xOqZDhoXRZslJiMdf3WQ/edit#slide=id.p)
+- 🔭 I’m currently working in "Tata Consultancy Services"
 
 - 🌱 I’m currently learning **IOT,REACTJS,MACHINE LEARNING**
 
 - 📫 How to reach me **harshgoyalg@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harsh-goyal-bb39a41ab/]
+- 📄 Know about my experiences [[Linkdein](https://www.linkedin.com/in/harsh-goyall/)]
 - ⚡ Fun fact **I think I'm quite funny and mature at same time.**
 
 ### Blogs posts
