@@ -11,11 +11,11 @@ Open to backend or system design roles where I can build impactful solutions wit
 
 - 🔭 I’m currently working in "Tata Consultancy Services"
 
-- 🌱 I’m currently learning **IOT,REACTJS,MACHINE LEARNING**
+- 🌱 I’m currently working on **JAVA,SPRING BOOT,MICROSERVICES,SPRING DATA JPA,SPRING SECURITY,POSTMAN,HIBERNATE,GEN AI,REST API's,JENKINS,AWS,MONGO DB,postgreSQL,MYSQL,REST TEMPLATES**
 
 - 📫 How to reach me **harshgoyalg@gmail.com**
 
-- 📄 Know about my experiences [[Linkdein](https://www.linkedin.com/in/harsh-goyall/)]
+- 📄 Know about my experiences [[Linkedin](https://www.linkedin.com/in/harsh-goyall/)]
 - ⚡ Fun fact **I think I'm quite funny and mature at same time.**
 
 ### Blogs posts
